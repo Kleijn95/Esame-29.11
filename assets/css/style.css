@@ -1,0 +1,152 @@
+body {
+    font-family: "open sans";
+    color: #393d41;
+    line-height: 1.65;
+    text-align: center;
+}
+
+header div img {
+    width: 25%;
+    margin-top: 1.3rem;
+}
+
+header div {
+    margin: 0 auto;
+    background-color: black;
+    height: 5rem;
+}
+
+header div {
+    height: 5rem;
+}
+
+h1 {
+    font-family: "Montserrat", sans-serif;
+    line-height: 1;
+    color: #25a2c3;
+    font-size: 2.5rem;
+    font-weight: bold;
+    padding: 2rem;
+}
+
+nav {
+    background-image: url(../images/banner.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+button {
+    color: white;
+    background-color: #f04c2f;
+    padding: 1rem 2.5rem;
+    margin: 2rem;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    border-radius: 0.3rem;
+    border: #f04c2f;
+}
+
+div h2 {
+    color: #25a2c3;
+    font-weight: bold;
+    margin-top: 1.5rem;
+}
+
+.primaImmagine {
+    border-radius: 50%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 70%;
+    margin-top: 1rem;
+}
+
+div picture img {
+    width: 70%;
+}
+
+.epicodeGarantisce {
+    margin: 2rem 0;
+    background-color: #f04c2f;
+    height: 15rem;
+    box-sizing: content-box;
+    color: white;
+}
+
+.epicodeGarantisce h2 {
+    font-size: 1.5rem;
+    color: white;
+    font-weight: bold;
+    padding-top: 1.5rem;
+}
+
+.mesi {
+    font-style: italic;
+    padding: 1rem;
+}
+
+.mario {
+    margin-top: 1rem;
+}
+
+.ceo {
+    font-size: 0.8rem;
+}
+
+aside div {
+    width: 100%;
+    margin-left: 1rem;
+    border: 0.1px;
+    border-top: 0.1px;
+    border-color: #dee1e3 !important;
+    border-width: 0.3px !important;
+    border-radius: 5px;
+    border: solid;
+    width: 26rem;
+    margin-bottom: 1rem;
+}
+
+aside div img {
+    width: 100%;
+}
+
+aside div h2 {
+    margin: 0 0;
+}
+
+aside div p {
+    margin-bottom: 2rem;
+}
+
+footer {
+    margin-top: 4rem;
+    height: 20rem;
+}
+
+footer {
+    color: white;
+    background-color: #25a2c3;
+}
+
+footer address p {
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 2rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1rem;
+}
+
+footer a {
+    color: white;
+}
+
+hr {
+    width: 50%;
+    margin-bottom: 2rem;
+}
+
+span {
+    text-decoration: underline;
+}
